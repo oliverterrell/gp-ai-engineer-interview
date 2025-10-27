@@ -1,0 +1,81 @@
+product_id,name,category,price,avg_rating,stock_quantity,description
+P001,Nike Air Zoom Pegasus,Running Shoes,129.99,4.7,45,Lightweight running shoes with responsive cushioning for daily training
+P002,Adidas Ultraboost 22,Running Shoes,189.99,4.8,32,Premium running shoes with boost technology for maximum energy return
+P003,New Balance Fresh Foam,Running Shoes,119.99,4.5,0,Cushioned running shoes for comfort and support
+P004,Brooks Ghost 15,Running Shoes,139.99,4.9,78,Neutral running shoes with smooth transitions
+P005,ASICS Gel-Kayano,Running Shoes,159.99,4.6,23,Stability running shoes for overpronators
+P006,Lululemon Yoga Mat 5mm,Yoga,68.00,4.8,56,Professional-grade yoga mat with superior grip
+P007,Manduka Pro Yoga Mat,Yoga,120.00,4.9,34,High-density yoga mat for studio use
+P008,Gaiam Yoga Mat Basic,Yoga,24.99,3.2,8,Entry-level yoga mat for beginners
+P009,Jade Harmony Yoga Mat,Yoga,79.95,4.7,0,Natural rubber yoga mat with excellent traction
+P010,Yoga Blocks Set,Yoga,16.99,4.4,120,Cork yoga blocks for support and alignment
+P011,MacBook Pro 14" M3,Laptops,1999.00,4.9,15,Professional laptop with M3 chip and 16GB RAM
+P012,MacBook Air 13" M2,Laptops,1199.00,4.8,42,Lightweight laptop perfect for everyday use
+P013,Dell XPS 13,Laptops,1299.00,4.6,28,Premium Windows laptop with InfinityEdge display
+P014,Lenovo ThinkPad X1,Laptops,1499.00,4.7,0,Business laptop with legendary keyboard
+P015,HP Pavilion 15,Laptops,699.00,3.8,65,Budget-friendly laptop for basic tasks
+P016,USB-C Charger 65W,Electronics,34.99,4.5,0,Universal laptop charger with fast charging
+P017,USB-C Charger 100W,Electronics,49.99,4.7,89,High-power charger for laptops and tablets
+P018,MagSafe Charger 67W,Electronics,59.99,4.8,34,Apple-compatible fast charger
+P019,Anker PowerPort,Electronics,29.99,3.1,12,Multi-port USB charger
+P020,Belkin USB-C Cable,Electronics,19.99,4.3,156,Durable charging cable 6ft length
+P021,Sony WH-1000XM5,Headphones,399.99,4.9,67,Premium noise-cancelling headphones
+P022,Bose QuietComfort 45,Headphones,329.00,4.8,45,Comfortable noise-cancelling headphones
+P023,Apple AirPods Pro 2,Headphones,249.00,4.7,0,True wireless earbuds with ANC
+P024,JBL Tune 510BT,Headphones,49.99,4.2,134,Budget wireless headphones
+P025,Beats Studio3,Headphones,349.95,4.4,23,Wireless headphones with Apple W1 chip
+P026,Patagonia Down Jacket,Outerwear,279.00,4.9,34,Warm down jacket for cold weather
+P027,North Face Fleece,Outerwear,99.00,4.6,67,Comfortable fleece for layering
+P028,Columbia Rain Jacket,Outerwear,89.99,4.5,0,Waterproof jacket for rainy days
+P029,Arc'teryx Shell,Outerwear,449.00,4.8,12,Premium technical shell jacket
+P030,Uniqlo Puffer Vest,Outerwear,59.99,3.9,156,Affordable insulated vest
+P031,Stanley Adventure Quencher,Water Bottles,45.00,4.7,234,Insulated tumbler that keeps drinks cold
+P032,Hydro Flask 32oz,Water Bottles,44.95,4.8,178,Vacuum insulated water bottle
+P033,Contigo AutoSeal,Water Bottles,19.99,4.3,0,Spill-proof travel mug
+P034,YETI Rambler 26oz,Water Bottles,39.99,4.9,89,Durable insulated bottle
+P035,Nalgene Wide Mouth,Water Bottles,12.99,4.4,445,Classic BPA-free water bottle
+P036,Instant Pot Duo 6Qt,Kitchen,99.99,4.8,67,Multi-function pressure cooker
+P037,Ninja Air Fryer,Kitchen,129.99,4.6,45,Large capacity air fryer with multiple functions
+P038,KitchenAid Stand Mixer,Kitchen,379.99,4.9,23,Professional stand mixer for baking
+P039,Cuisinart Food Processor,Kitchen,149.00,4.5,34,Versatile food processor
+P040,OXO Good Grips Set,Kitchen,34.99,3.6,156,Kitchen utensil set
+P041,Theragun Prime,Fitness,299.00,4.7,45,Percussive therapy device for muscle recovery
+P042,Hyperice Hypervolt,Fitness,199.00,4.6,0,Massage gun for athletes
+P043,Resistance Bands Set,Fitness,24.99,4.4,234,Portable resistance bands for home workouts
+P044,Bowflex Dumbbells,Fitness,349.00,4.8,12,Adjustable dumbbells 5-52 lbs
+P045,TRX Home Suspension,Fitness,169.95,4.7,67,Suspension training system
+P046,Kindle Paperwhite,Electronics,139.99,4.8,123,Waterproof e-reader with adjustable light
+P047,iPad Air 5th Gen,Tablets,599.00,4.9,34,Powerful tablet with M1 chip
+P048,Samsung Galaxy Tab S8,Tablets,699.99,4.6,0,Android tablet with S Pen
+P049,iPad 10th Gen,Tablets,449.00,4.7,56,Affordable iPad for everyday use
+P050,Remarkable 2,Tablets,399.00,4.5,23,E-ink tablet for note-taking
+P051,Camping Tent 4-Person,Camping,199.99,4.6,45,Easy setup family camping tent
+P052,Sleeping Bag 20F,Camping,89.99,4.7,67,Warm sleeping bag for cold weather
+P053,Camping Stove,Camping,34.99,4.4,0,Portable propane camping stove
+P054,Backpacking Backpack 65L,Camping,229.00,4.8,23,Large capacity hiking backpack
+P055,Camping Chair,Camping,39.99,3.7,189,Folding camp chair
+P056,Fitbit Charge 6,Wearables,159.99,4.5,89,Fitness tracker with heart rate monitor
+P057,Apple Watch Series 9,Wearables,399.00,4.9,45,Smartwatch with health tracking
+P058,Garmin Forerunner 255,Wearables,349.99,4.8,34,GPS running watch
+P059,Oura Ring Gen 3,Wearables,299.00,4.6,0,Sleep and activity tracking ring
+P060,Whoop Strap 4.0,Wearables,239.00,4.4,67,Fitness strap for recovery tracking
+P061,Blue Yeti Microphone,Audio,129.99,4.7,78,Professional USB microphone
+P062,Rode PodMic,Audio,99.00,4.8,45,Dynamic podcasting microphone
+P063,Audio-Technica ATH-M50x,Audio,149.00,4.9,0,Studio monitor headphones
+P064,Shure SM7B,Audio,399.00,4.9,12,Legendary broadcast microphone
+P065,Focusrite Scarlett,Audio,199.99,4.6,56,USB audio interface
+P066,Carhartt Work Jacket,Workwear,119.99,4.8,123,Durable work jacket
+P067,Timberland Work Boots,Workwear,149.99,4.7,0,Steel toe work boots
+P068,Dickies Work Pants,Workwear,34.99,4.5,234,Classic work pants
+P069,Dewalt Work Gloves,Workwear,24.99,4.4,156,Heavy-duty work gloves
+P070,Milwaukee Tool Belt,Workwear,79.99,4.6,89,Professional tool belt
+P071,Dyson V15 Vacuum,Home,649.99,4.8,23,Cordless vacuum with laser detection
+P072,Roomba j7+,Home,799.00,4.6,0,Robot vacuum with self-emptying
+P073,Shark Navigator,Home,199.99,4.5,67,Upright vacuum with lift-away
+P074,Bissell CrossWave,Home,279.99,4.4,34,Vacuum and mop combo
+P075,Black+Decker Dustbuster,Home,49.99,3.8,178,Handheld vacuum cleaner
+P076,Brita Water Filter,Home,39.99,4.6,234,Water filter pitcher
+P077,Nest Thermostat,Home,129.99,4.7,45,Smart thermostat
+P078,Ring Doorbell Pro,Home,249.99,4.5,0,Smart video doorbell
+P079,Philips Hue Starter Kit,Home,199.99,4.6,56,Smart LED lighting system
+P080,Ecobee SmartThermostat,Home,249.00,4.8,34,Smart thermostat with voice control

@@ -1,0 +1,151 @@
+message_id,user_id,timestamp,message,converted_to_purchase
+M001,U001,2025-01-15 09:00:00,I love my Nike running shoes,
+M002,U002,2025-01-15 09:15:00,Need a good yoga mat for hot yoga,P006
+M003,U003,2025-01-15 09:30:00,My laptop charger just broke again,P017
+M004,U004,2025-01-15 09:45:00,Looking for noise cancelling headphones for travel,P021
+M005,U005,2025-01-15 10:00:00,This USB-C charger is absolute garbage,
+M006,U006,2025-01-15 10:15:00,Want to start running need good shoes,P001
+M007,U007,2025-01-15 10:30:00,My MacBook Pro is amazing,
+M008,U008,2025-01-15 10:45:00,Need camping gear for weekend trip,P051
+M009,U009,2025-01-15 11:00:00,These headphones are terrible quality,
+M010,U010,2025-01-15 11:15:00,Looking for a water bottle that keeps drinks cold all day,P031
+M011,U011,2025-01-15 11:30:00,Need something for home workouts,P043
+M012,U012,2025-01-15 11:45:00,My down jacket keeps me so warm,
+M013,U013,2025-01-15 12:00:00,Laptop for college student budget friendly,P015
+M014,U014,2025-01-15 12:15:00,This yoga mat is slippery and useless,
+M015,U015,2025-01-15 12:30:00,Need massage gun for sore muscles,P041
+M016,U016,2025-01-15 12:45:00,Looking for fitness tracker,P056
+M017,U017,2025-01-15 13:00:00,My instant pot changed my life,
+M018,U018,2025-01-15 13:15:00,Need vacuum cleaner for pet hair,P071
+M019,U019,2025-01-15 13:30:00,These work boots fell apart after 2 months,
+M020,U020,2025-01-15 13:45:00,Looking for e-reader,P046
+M021,U021,2025-01-15 14:00:00,Need portable charger for travel,P017
+M022,U022,2025-01-15 14:15:00,Love my Apple Watch,
+M023,U023,2025-01-15 14:30:00,Kitchen mixer for baking bread,P038
+M024,U024,2025-01-15 14:45:00,This air fryer is a waste of money,
+M025,U025,2025-01-15 15:00:00,Need rain jacket for hiking,P028
+M026,U026,2025-01-15 15:15:00,Looking for wireless earbuds,P023
+M027,U027,2025-01-15 15:30:00,My resistance bands are great,
+M028,U028,2025-01-15 15:45:00,Need sleeping bag for cold weather camping,P052
+M029,U029,2025-01-15 16:00:00,This laptop is so slow it's unusable,
+M030,U030,2025-01-15 16:15:00,Looking for professional microphone for podcasting,P061
+M031,U031,2025-01-15 16:30:00,Need backpack for long hiking trips,P054
+M032,U032,2025-01-15 16:45:00,My Hydro Flask keeps ice for 24 hours,
+M033,U033,2025-01-15 17:00:00,Looking for smart thermostat,P077
+M034,U034,2025-01-15 17:15:00,Need winter jacket warm down,P026
+M035,U035,2025-01-15 17:30:00,This fitness tracker battery dies too fast,
+M036,U036,2025-01-15 17:45:00,Need yoga blocks for practice,P010
+M037,U037,2025-01-15 18:00:00,Looking for camping stove,P053
+M038,U038,2025-01-15 18:15:00,My Sony headphones are incredible,
+M039,U039,2025-01-15 18:30:00,Need iPad for note taking,P047
+M040,U040,2025-01-15 18:45:00,This tent leaked in the rain,
+M041,U041,2025-01-15 19:00:00,Looking for adjustable dumbbells home gym,P044
+M042,U042,2025-01-15 19:15:00,Need running watch GPS,P058
+M043,U043,2025-01-15 19:30:00,Love my TRX suspension trainer,
+M044,U044,2025-01-15 19:45:00,Looking for water filter pitcher,P076
+M045,U045,2025-01-15 20:00:00,This pressure cooker is dangerous,
+M046,U046,2025-01-15 20:15:00,Need work boots steel toe,P067
+M047,U047,2025-01-15 20:30:00,Looking for studio headphones music production,P063
+M048,U048,2025-01-15 20:45:00,My camping chair is comfortable,
+M049,U049,2025-01-15 21:00:00,Need wireless mouse for laptop,
+M050,U050,2025-01-15 21:15:00,This thermostat app is buggy,
+M051,U051,2025-01-16 08:00:00,Looking for running shoes with good cushioning,P004
+M052,U052,2025-01-16 08:15:00,Need something to carry water while hiking,P032
+M053,U053,2025-01-16 08:30:00,My air fryer works great,
+M054,U054,2025-01-16 08:45:00,Looking for budget laptop basic tasks,P015
+M055,U055,2025-01-16 09:00:00,This robot vacuum keeps getting stuck,
+M056,U056,2025-01-16 09:15:00,Need lightweight tent for backpacking,P051
+M057,U057,2025-01-16 09:30:00,Looking for yoga mat thick comfortable,P007
+M058,U058,2025-01-16 09:45:00,My Garmin watch is perfect for running,
+M059,U059,2025-01-16 10:00:00,Need tool belt for construction work,P070
+M060,U060,2025-01-16 10:15:00,This charger cable frayed after one month,
+M061,U061,2025-01-16 10:30:00,Looking for tablet for kids,P049
+M062,U062,2025-01-16 10:45:00,Need fleece jacket for layering,P027
+M063,U063,2025-01-16 11:00:00,My Kindle Paperwhite battery lasts forever,
+M064,U064,2025-01-16 11:15:00,Looking for home security camera,P078
+M065,U065,2025-01-16 11:30:00,This food processor is too loud,
+M066,U066,2025-01-16 11:45:00,Need camping chair for tailgating,P055
+M067,U067,2025-01-16 12:00:00,Looking for smartwatch fitness tracking,P057
+M068,U068,2025-01-16 12:15:00,My down vest is perfect for fall,
+M069,U069,2025-01-16 12:30:00,Need USB audio interface for recording,P065
+M070,U070,2025-01-16 12:45:00,This vacuum has no suction anymore,
+M071,U071,2025-01-16 13:00:00,Looking for work pants durable,P068
+M072,U072,2025-01-16 13:15:00,Need high power laptop charger,P017
+M073,U073,2025-01-16 13:30:00,My Bowflex dumbbells save so much space,
+M074,U074,2025-01-16 13:45:00,Looking for smart light bulbs,P079
+M075,U075,2025-01-16 14:00:00,This microphone picks up too much background noise,
+M076,U076,2025-01-16 14:15:00,Need sleep tracking ring,P059
+M077,U077,2025-01-16 14:30:00,Looking for water bottle BPA free,P035
+M078,U078,2025-01-16 14:45:00,My work jacket keeps me dry,
+M079,U079,2025-01-16 15:00:00,Need wireless headphones for gym,P024
+M080,U080,2025-01-16 15:15:00,This sleeping bag zipper broke,
+M081,U081,2025-01-16 15:30:00,Looking for professional stand mixer,P038
+M082,U082,2025-01-16 15:45:00,Need cordless vacuum lightweight,P071
+M083,U083,2025-01-16 16:00:00,My Patagonia jacket is worth every penny,
+M084,U084,2025-01-16 16:15:00,Looking for resistance bands home workout,P043
+M085,U085,2025-01-16 16:30:00,This doorbell camera quality is terrible,
+M086,U086,2025-01-16 16:45:00,Need podcasting microphone USB,P061
+M087,U087,2025-01-16 17:00:00,Looking for insulated tumbler,P031
+M088,U088,2025-01-16 17:15:00,My New Balance shoes are comfortable,
+M089,U089,2025-01-16 17:30:00,Need camping backpack 60 liter,P054
+M090,U090,2025-01-16 17:45:00,This smartwatch app crashes constantly,
+M091,U091,2025-01-16 18:00:00,Looking for budget noise cancelling headphones,P022
+M092,U092,2025-01-16 18:15:00,Need MacBook charger fast charging,P018
+M093,U093,2025-01-16 18:30:00,My YETI Rambler is indestructible,
+M094,U094,2025-01-16 18:45:00,Looking for fitness strap recovery tracking,P060
+M095,U095,2025-01-16 19:00:00,This yoga mat smells like chemicals,
+M096,U096,2025-01-16 19:15:00,Need outdoor shell jacket waterproof,P029
+M097,U097,2025-01-16 19:30:00,Looking for camping tent family size,P051
+M098,U098,2025-01-16 19:45:00,My Theragun helps with recovery,
+M099,U099,2025-01-16 20:00:00,Need work gloves heavy duty,P069
+M100,U100,2025-01-16 20:15:00,This laptop trackpad is unresponsive,
+M101,U101,2025-01-17 08:00:00,Looking for beginner yoga mat,P008
+M102,U102,2025-01-17 08:15:00,Need stability running shoes,P005
+M103,U103,2025-01-17 08:30:00,My Instant Pot is easy to use,
+M104,U104,2025-01-17 08:45:00,Looking for e-ink tablet note taking,P050
+M105,U105,2025-01-17 09:00:00,This air fryer basket coating is peeling,
+M106,U106,2025-01-17 09:15:00,Need laptop M chip powerful,P011
+M107,U107,2025-01-17 09:30:00,Looking for camping sleeping bag warm,P052
+M108,U108,2025-01-17 09:45:00,My Stanley tumbler fits in cup holder,
+M109,U109,2025-01-17 10:00:00,Need massage tool muscle recovery,P041
+M110,U110,2025-01-17 10:15:00,This portable charger charges too slowly,
+M111,U111,2025-01-17 10:30:00,Looking for business laptop keyboard,P014
+M112,U112,2025-01-17 10:45:00,Need suspension training system,P045
+M113,U113,2025-01-17 11:00:00,My Bose headphones are comfortable for long flights,
+M114,U114,2025-01-17 11:15:00,Looking for camping stove portable,P053
+M115,U115,2025-01-17 11:30:00,This fitness tracker heart rate is inaccurate,
+M116,U116,2025-01-17 11:45:00,Need rain jacket lightweight packable,P028
+M117,U117,2025-01-17 12:00:00,Looking for broadcast microphone,P064
+M118,U118,2025-01-17 12:15:00,My Nalgene bottle is durable,
+M119,U119,2025-01-17 12:30:00,Need true wireless earbuds ANC,P023
+M120,U120,2025-01-17 12:45:00,This work jacket zipper broke immediately,
+M121,U121,2025-01-17 13:00:00,Looking for running shoes overpronation,P005
+M122,U122,2025-01-17 13:15:00,Need tablet with pen support,P047
+M123,U123,2025-01-17 13:30:00,My Arc'teryx shell is technical perfection,
+M124,U124,2025-01-17 13:45:00,Looking for smart video doorbell,P078
+M125,U125,2025-01-17 14:00:00,This kitchen utensil set feels cheap,
+M126,U126,2025-01-17 14:15:00,Need GPS watch for marathon training,P058
+M127,U127,2025-01-17 14:30:00,Looking for upright vacuum pet hair,P073
+M128,U128,2025-01-17 14:45:00,My Hydro Flask is worth the price,
+M129,U129,2025-01-17 15:00:00,Need daily running shoes neutral,P004
+M130,U130,2025-01-17 15:15:00,This handheld vacuum is weak,
+M131,U131,2025-01-17 15:30:00,Looking for premium yoga mat studio,P007
+M132,U132,2025-01-17 15:45:00,Need Windows laptop good display,P013
+M133,U133,2025-01-17 16:00:00,My Whoop strap tracks sleep well,
+M134,U134,2025-01-17 16:15:00,Looking for folding camp chair,P055
+M135,U135,2025-01-17 16:30:00,This thermostat doesn't learn my schedule,
+M136,U136,2025-01-17 16:45:00,Need laptop charger 100 watts,P017
+M137,U137,2025-01-17 17:00:00,Looking for water bottle insulated,P034
+M138,U138,2025-01-17 17:15:00,My Fitbit battery lasts 7 days,
+M139,U139,2025-01-17 17:30:00,Need air fryer large capacity,P037
+M140,U140,2025-01-17 17:45:00,This robot vacuum is loud,
+M141,U141,2025-01-17 18:00:00,Looking for wool socks hiking,
+M142,U142,2025-01-17 18:15:00,Need cordless stick vacuum,P071
+M143,U143,2025-01-17 18:30:00,My ThinkPad keyboard is amazing,
+M144,U144,2025-01-17 18:45:00,Looking for professional studio mixer,P038
+M145,U145,2025-01-17 19:00:00,This camping tent poles bent easily,
+M146,U146,2025-01-17 19:15:00,Need outdoor gear weekend camping,P051
+M147,U147,2025-01-17 19:30:00,Looking for natural rubber yoga mat,P009
+M148,U148,2025-01-17 19:45:00,My TRX straps are versatile,
+M149,U149,2025-01-17 20:00:00,Need USB microphone podcasting,P061
+M150,U150,2025-01-17 20:15:00,This smart doorbell motion detection is spotty,
