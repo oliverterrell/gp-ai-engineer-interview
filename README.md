@@ -25,7 +25,7 @@ You'll work with three CSV files in the `data/` folder. Explore them to understa
 ### What You Need to Build:
 1. **Pipeline code** that processes the messages and generates recommendations
 2. **Output CSV** with your recommendations for all messages
-3. Must use **Gemini API (free tier)** - we'll test with our own API key in free tier
+3. if using llm as an api, **Gemini API (free tier)** - must use free tier
 
 ### Output Format
 Your output CSV should include:
