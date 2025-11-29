@@ -1,67 +1,72 @@
-# goodparty.org AI Engineer Assessment
+# Product Recommendation System
 
-**Duration**: 2-3 hours
+An LLM-powered recommendation pipeline that analyzes user messages and suggests relevant products from an e-commerce catalog.
 
----
+## Setup
+Visit https://aistudio.google.com/api-keys and click "Create API key" on the top-right to create a free-to-use Gemini API key.
 
-## The Task
+```bash
+# Create and activate virtual environment
+python -m venv .venv
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 
-Build a product recommendation system for our e-commerce platform. Our current system isn't performing well, and we need you to:
+# Install dependencies
+pip install -r requirements.txt
 
-1. **Analyze the historical data** to understand what's broken
-2. **Build a better system** informed by historical insights
-3. **Validate your approach** with evidence
+# Configure API key
+echo "GEMINI_API_KEY=your_api_key_here" > .env
+```
 
----
+## Usage
 
-## Datasets
+### Generate Recommendations
 
-You'll work with three CSV files in the `data/` folder. Explore them to understand the structure and relationships.
+```bash
+# Process all historical messages → outputs recommendations.csv
+python recommend.py
 
----
+# Custom output path
+python recommend.py -o my_recommendations.csv
 
-## Requirements
+# Test with a single message (outputs to console)
+python recommend.py --message "I need running shoes for a marathon"
+```
 
-### What You Need to Build:
-1. **Pipeline code** that processes the messages and generates recommendations
-2. **Output CSV** with your recommendations for all messages
-3. if using llm as an api, **Gemini API (free tier)** - must use free tier
+### Analyze Results
 
-### Output Format
-Your output CSV should include:
-- `message_id` - links to the original message
-- `recommended_product_id` - your recommendation
-- `confidence` - score between 0-1
-- `reasoning` - why you recommended this product
+```bash
+# Analyze historical recommendation performance
+python analyze.py
 
----
+# Analyze your generated recommendations
+python analyze.py -r recommendations.csv
 
-## What to Submit
+# Compare your recommendations against historical baseline
+python analyze.py -r recommendations.csv --compare
+```
 
-1. **Pipeline code** 
-2. **Output CSV** 
-3. **README.md** with explanation on how to run things
-4. **Analysis document** (Markdown, PDF, or notebook) covering:
-   - Data exploration: What did you discover?
-   - Design decisions: Why this approach?
-   - Validation: How do you know it's better?
+## How It Works
 
----
+The recommendation pipeline uses a two-stage LLM approach:
 
-## Evaluation
+1. **Intent Classification** — Determines if the user has purchase intent and identifies the top 3 relevant product categories
+2. **Product Selection** — Filters candidates by category, stock, and rating, then ranks the top 3 products with confidence scores
 
-We'll evaluate based on:
-- **Implementation**: Does it work well and produce quality recommendations? This includes code organization and quality.
-- **Problem-Solving**: Are your decisions justified with evidence?
-- **Communication**: Clear documentation and explanations?
+Output includes `message_id`, `recommended_product_id`, `confidence`, and `reasoning` for a total of three top recommendations.
 
----
+## Project Structure
 
-## Notes
+```
+├── recommend.py      # Main recommendation pipeline
+├── analyze.py        # Evaluation script
+├── lib/
+│   ├── config.py     # API and business rule settings
+│   ├── analyzer.py   # Metrics calculation
+│   └── utils.py      # Data loading helpers
+└── data/
+    ├── messages.csv              # User messages
+    ├── products.csv              # Product catalog
+    └── recommendations_history.csv  # Historical recommendations
+```
 
-- AI tools are encouraged, but a word of advice, don't use ai to offload your thinking, but instead to extend your thinking. 
-- You should be able to explain every detail of this project. Every decision etc.
-- Make reasonable assumptions if anything is unclear and document them
-
-Good luck!
-AI team at goodparty.orgs
+Supporting files have been left in project root, though don't be alarmed by their presence. Notes in `ANALYSIS.md` can be found explaining what these files contain.

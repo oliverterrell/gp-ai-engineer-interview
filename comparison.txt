@@ -1,0 +1,45 @@
+(.venv) oliverterrell@Olivers-MacBook-Pro scripts % python3 -m analyze -r recommendations.csv --compare
+
+==================================================
+Historical Recommendations
+==================================================
+
+Accuracy:
+Exact Match Rate:        0.0%  (0/88)
+Category Match Rate:     5.7%  (5/88)
+
+Coverage:
+Messages with Purchase: 88/150
+Recommendations Made:   88
+Coverage Rate:          100.0%
+
+Quality:
+Out-of-Stock Rate:      30.7%
+Avg Product Rating:      4.23
+
+
+==================================================
+New Recommendations
+==================================================
+
+Accuracy:
+Exact Match Rate:       73.9%  (65/88)
+Category Match Rate:    96.6%  (85/88)
+
+Coverage:
+Messages with Purchase: 88/150
+Recommendations Made:   87
+Coverage Rate:          98.9%
+
+Quality:
+Out-of-Stock Rate:       0.0%
+Avg Product Rating:      4.65
+Avg Confidence:          0.95
+
+==================================================
+COMPARISON SUMMARY
+==================================================
+Exact Match:      0.0% →  73.9%  (++73.9pp)
+Category Match:   5.7% →  96.6%  (++90.9pp)
+Out-of-Stock:    30.7% →   0.0%  (++30.7pp)
+
